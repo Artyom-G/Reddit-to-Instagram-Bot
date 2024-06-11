@@ -1,0 +1,43 @@
+1616256712470	geckodriver	INFO	Listening on 127.0.0.1:43467
+1616256713461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebQnelS"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616256726625	Marionette	INFO	Listening on port 45765
+1616256726914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616256727018	Marionette	ERROR	[15] No reply from Marionette:Register
+1616256929849	geckodriver	INFO	Listening on 127.0.0.1:34289
+1616256930865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesBgRjj"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616256940734	Marionette	INFO	Listening on port 41563
+1616256941016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616256941120	Marionette	ERROR	[18] No reply from Marionette:Register
+1616256961245	geckodriver	INFO	Listening on 127.0.0.1:32885
+1616256961254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekOHKh3"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616256972785	Marionette	INFO	Listening on port 35335
+1616256973285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616256973524	Marionette	ERROR	[15] No reply from Marionette:Register
+1616257096354	geckodriver	INFO	Listening on 127.0.0.1:53963
+1616257097354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletXWZH5"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616257107405	Marionette	INFO	Listening on port 43625
+1616257107533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616257107621	Marionette	ERROR	[15] No reply from Marionette:Register
+1616257333882	geckodriver	INFO	Listening on 127.0.0.1:33443
+1616257334793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea4Zbbj"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616257353201	Marionette	INFO	Listening on port 37903
+1616257353444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616257353565	Marionette	ERROR	[18] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
